@@ -1,0 +1,52 @@
+.footer{
+  height: 29rem;
+  width: 100%;
+  background-color: #000000;
+  color: white;
+  margin-top: 3rem;
+ 
+}
+
+.rr1{
+  margin-left: 3.5rem;
+  margin-right: 0rem;
+  padding-top: 5rem;
+  display: flex;
+}
+
+.part1{
+  margin-left: 5rem;
+  height: 20rem;
+  width: 15rem;
+
+}
+
+.g1{
+   font-family:'Trebuchet MS';
+  font-weight: bold;
+  font-size: 1.1rem;
+
+
+
+}
+
+.g2{
+  opacity: 0.6;
+   font-family:'Trebuchet MS';
+  font-size: 0.9rem;
+}
+
+.fb{
+  display: flex;
+}
+
+#col{
+  background-color:#e70060;
+  border-color:#e70060;
+}
+
+.facebook{
+  height: 1.5rem;
+  margin-left: 1rem;
+
+}

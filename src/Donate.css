@@ -1,0 +1,51 @@
+.don1{
+    color: aliceblue;
+  background-color: brown;
+  position: absolute;
+  top: 13rem;
+  padding: 2rem;
+  border-radius: 12px;
+
+  
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
+  margin-left: 15rem;
+   
+}
+.don2{
+    position: absolute;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    top: 43rem;
+    left: 11rem;
+    height: 5rem;
+    font-size: 1.5rem;
+    box-shadow: 3px 8px 16px rgb(0, 0, 0, 0.4);
+    padding: 40px;
+    padding-top: 60px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    margin-right: 10rem;   
+}
+.ngg{
+  margin-top: 7rem;
+  margin-right: 10rem;
+  
+}
+.nxt{
+  margin-top: 3rem;
+  margin-left: 8rem;
+}
+.nxb{
+  height: 3rem;
+  width: 30rem;
+}
+.ft{
+  position: absolute;
+  left: 0;
+  width: 20rem;
+}
+.ft1{
+  position: absolute;
+  top: 320vh;
+  left: 0;
+  width: 83.9rem;
+}

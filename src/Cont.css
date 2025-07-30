@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.head{
+    position: absolute;
+    top: 10rem;
+    left: 40rem;
+    font-size: 3rem;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight:bold;
+}
+.h4{
+    color: rgb(95, 140, 168);
+}
+.fpic img {
+  width: 30rem;
+  height: 32rem;
+  object-fit: cover;
+  position: absolute;
+  top: 7rem;
+  left: 8rem;
+
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.25);
+  border-radius: 50%;
+}
+
+.line {
+  opacity: 0;
+  transform: translateY(40px);
+  animation: slideUp 1.2s ease forwards;
+}
+
+.line2 {
+  animation-delay: 0.5s;
+  color: rgb(56, 50, 50);
+}
+
+@keyframes slideUp {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
