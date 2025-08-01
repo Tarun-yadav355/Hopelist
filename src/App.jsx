@@ -6,6 +6,7 @@ import Content from "./Content";
 import ImpactStats from "./ImpactStats";
 import Footer from "./Footer";
 import Donate from "./Donate"; // Import your new page
+import Contactus from './Contactus';
 
 function HomePage() {
   return (
@@ -13,6 +14,7 @@ function HomePage() {
       <Cont />
       <Content />
       <ImpactStats />
+      <Contactus/>
       <Footer />
     </>
   );
